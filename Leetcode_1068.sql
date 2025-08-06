@@ -56,6 +56,7 @@ Output:
 | Nokia        | 2009  | 5000  |
 | Apple        | 2011  | 9000  |
 +--------------+-------+-------+
+
 Explanation: 
 From sale_id = 1, we can conclude that Nokia was sold for 5000 in the year 2008.
 From sale_id = 2, we can conclude that Nokia was sold for 5000 in the year 2009.
